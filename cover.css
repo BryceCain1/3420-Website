@@ -56,3 +56,8 @@ body {
   height: 50vh;
   width: 50vh;
 }
+
+.pushup-bar {
+  clear: both;
+  height: 100vh;
+}
